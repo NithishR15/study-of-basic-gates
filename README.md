@@ -68,6 +68,7 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
  Developed by: NITHISH R
  RegisterNumber: 212223040135
+ 
  ##PROGRAM
  ![Screenshot 2024-03-22 132753](https://github.com/NithishR15/study-of-basic-gates/assets/144870685/3b9c52d0-3a30-4703-ba72-a6846777deb1)
 
@@ -77,7 +78,8 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 
 
-**RTL realization Output:** 
+
+##RTL realization Output
 ![Screenshot 2024-03-22 132854](https://github.com/NithishR15/study-of-basic-gates/assets/144870685/d003f437-70bd-4daa-8c7e-dfd6952f6245)
 
 ##OUTPUT:
